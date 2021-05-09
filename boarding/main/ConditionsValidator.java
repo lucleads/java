@@ -13,8 +13,6 @@ import java.lang.reflect.Method;
 import java.util.*;
 
 /** @author Lucas Dante Elizalde on Dic, 2020 */
-@Component
-@NoArgsConstructor
 public class ConditionsValidator {
   public Boolean comprobarCondicion(EntidadPrincipal entidadPrincipal, Condicion condicion)
       throws NoSuchMethodException, IllegalAccessException, InvocationTargetException,
