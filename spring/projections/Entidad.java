@@ -1,6 +1,7 @@
 package com.haya.boarding.content.entidad.domain;
 
 import lombok.NoArgsConstructor;
+import lombok.Getter;
 
 
 @Entity
@@ -9,9 +10,11 @@ import lombok.NoArgsConstructor;
 public class Entidad {
   @Id
   @GeneratedValue
+  @Getter
   @Column(name = "ID")
   private int id;
   
+  @Getter
   @Column(name = "NOMBRE")
   private String nombre;
   
