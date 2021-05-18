@@ -1,4 +1,4 @@
-package com.haya.boarding.shared.util.peticiones.application;
+package com.boarding.shared.util.peticiones.application;
 
 import org.springframework.http.*;
 import org.springframework.http.client.HttpComponentsClientHttpRequestFactory;
