@@ -1,6 +1,6 @@
-package com.haya.boarding.shared;
+package com.boarding.shared;
 
-import com.haya.boarding.content.config_variable.application.ConfiguracionVariableService;
+import com.boarding.content.config_variable.application.ConfiguracionVariableService;
 import lombok.NoArgsConstructor;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
