@@ -38,9 +38,6 @@ public class Condicion extends Auditable<Integer> {
   @Column(name = "OPERADOR")
   private String operador;
 
-  @Column(name = "HASH")
-  private String hash;
-
   @Column(name = "DESCRIPCION", columnDefinition = "TEXT")
   private String descripcion;
 
