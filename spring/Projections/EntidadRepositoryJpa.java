@@ -1,5 +1,5 @@
-package com.haya.boarding.content.entidad.infrastructure.repository.jpa;
-import com.haya.boarding.content.rem.infrastructure.repository.projections.EntidadIdAndNombre;
+package com.boarding.content.entidad.infrastructure.repository.jpa;
+import com.boarding.content.rem.infrastructure.repository.projections.EntidadIdAndNombre;
 import org.springframework.stereotype.Repository;
 
 @Repository
