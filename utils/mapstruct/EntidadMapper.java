@@ -1,5 +1,5 @@
-import com.haya.boarding.content.expediente_boarding.domain.Entidad;
-import com.haya.boarding.content.expediente_boarding.infrastructure.controller.dto.output.EntidadOutputDto;
+import com.boarding.content.expediente_boarding.domain.Entidad;
+import com.boarding.content.expediente_boarding.infrastructure.controller.dto.output.EntidadOutputDto;
 import org.mapstruct.Mapper;
 import org.mapstruct.Mapping;
 import org.mapstruct.factory.Mappers;
