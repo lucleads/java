@@ -1,4 +1,4 @@
-package com.haya.boarding.shared.util;
+package com.boarding.shared.util;
 
 public class NumeroToLiteral {
   public static String numToLiteral(double num_i1) {
