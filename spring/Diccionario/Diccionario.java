@@ -1,4 +1,4 @@
-package com.haya.boarding.shared;
+package com.boarding.shared;
 
 import lombok.*;
 
