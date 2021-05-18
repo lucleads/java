@@ -1,6 +1,6 @@
-package com.haya.boarding.shared;
+package com.boarding.shared;
 
-import com.haya.boarding.content.condicion.domain.Condicion;
+import com.boarding.content.condicion.domain.Condicion;
 import lombok.NoArgsConstructor;
 import org.apache.commons.lang3.ArrayUtils;
 import org.springframework.stereotype.Component;
