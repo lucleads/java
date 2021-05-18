@@ -1,4 +1,4 @@
-package com.haya.boarding.shared.validador;
+package com.boarding.shared.validador;
 
 public class Validador {
 
