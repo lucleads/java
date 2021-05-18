@@ -1,6 +1,6 @@
 **FECHAS UTIL 2**
 
-Clase de utilidades para tratar fechas.
+Clase auxiliar de utilidades para tratar fechas.
 
 Dispone de los siguientes métodos:
 
