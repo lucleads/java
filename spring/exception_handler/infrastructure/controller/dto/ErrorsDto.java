@@ -1,6 +1,5 @@
 package com.pruebas.content.exception_handler.infrastructure.controller.dto;
 
-import com.pruebas.content.exception_handler.ErrorDto;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
