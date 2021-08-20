@@ -15,7 +15,7 @@ El objeto "Condición" debe seguir la siguiente estructura:
 "desripcion": "String (Descripción de la condición)",
 "capasDesdeEntidadPrincipal": "String (Capas desde la entidad principal, hasta la última entidad a evaluar separadas por comas. Ex: capa1,capa2,capa3...)"
 }
-
+```
 
 
 Mediante esta clase, podemos extraer un gran número de condiciones, siempre y cuando se espere que el todos los objetos finales que parten de la entidad principal cumplan la condición. Es decir, no permite un "Cuando *al menos un* elemento X cumpla Y".
