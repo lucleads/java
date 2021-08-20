@@ -1,4 +1,4 @@
-**Conditions Validator**
+# **Conditions Validator**
 
 Esta clase permite comprobar si una entidad obtenida a partir de una entidad padre (o entidad principal) cumple una determinada condicion, partiendo de dos POJOs: Uno con la entidad principal, y otro la condición a comprobar. Para ejecutar esta clase, es necesario haber creado previamente los gettes correspondientes.
 
