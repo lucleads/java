@@ -2,7 +2,7 @@
 
 `NOTE: Rest template quedará deprecated en próximas versiones. Utilizar WebClient para el desarrollo de nuevas aplicaciones.`
 
-Esta clase es utilizada para realizar peticiones Web, y poder mapear su respuesta en un [POJO] (https://www.javatpoint.com/pojo-in-java). 
+Esta clase es utilizada para realizar peticiones Web, y poder mapear su respuesta en un [`POJO`](https://www.javatpoint.com/pojo-in-java). 
 Aquí encontrarás un ejemplo de RestTemplate ya creado, utilizando el método:
 
 ```java
