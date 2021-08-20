@@ -6,12 +6,12 @@ El objeto "Condición" debe seguir la siguiente estructura:
 
 ```json
 {
-"id": int
+"id": "int",
 "nombre": "String (Nombre de la condición)",
 "tabla": "String (Tabla en la que se encuentra el objeto a validar)",
 "campo": "String (Campo para el que se quiere validar su valor [Debe tener su getter, y estar escrito en CamelCase])",
 "valor": "String (Valor esperado para el campo)",
-"operador": "String (Condición java para el campo. Ex: "**!=**")",
+"operador": "String (Condición java para el campo. Ex: '**!=**')",
 "desripcion": "String (Descripción de la condición)",
 "capasDesdeEntidadPrincipal": "String (Capas desde la entidad principal, hasta la última entidad a evaluar separadas por comas. Ex: capa1,capa2,capa3...)"
 }
