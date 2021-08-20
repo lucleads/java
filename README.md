@@ -19,7 +19,7 @@ En este repositorio se encuentran las clases que podrían ser adaptadas para su 
 
 Proyecto orientado a la gestión de personal y recursos humanos de una empresa.
 Este proyecto se desarrolló siguiendo la arquitectura *MVC* y desplegando distintos microservicios de Spring en contenedores docker, que interactuaban entre sí.
-De esta forma, se formó una red de 6 microservicios correlacionados: Zuul (proxy-inverso), Auth (servicio de autenticación), Eureka (gestión de microservicios), Employee (microservicio para la gestión de recursos humanos), Evaluations (microservicio de automatización para postulaciones de trabajo), Nfq-Synchriniser (microservicio encargado de la migración de datos con un BD externa).
+De esta forma, se formó una red de 6 microservicios correlacionados: **Zuul** (proxy-inverso), **Auth** (servicio de autenticación), **Eureka** (gestión de microservicios), **Employee** (microservicio para la gestión de recursos humanos), **Evaluations** (microservicio de automatización para postulaciones de trabajo), **Nfq-Synchronizer** (microservicio encargado de la migración de datos con un BD externa).
 
 En este repositorio se encuentran las clases que podrían ser de utilidad, extraidas de este proyecto.
 
