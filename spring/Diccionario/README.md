@@ -5,7 +5,7 @@ Entidad general de diccionario, de la que pueden extender el resto de clases par
 ``` json
 {
 
-  "id": "Integer",
+  "id": "int",
   "codigo": "String",
   "descripcion": "String",
   "descripcionLarga": "String"
