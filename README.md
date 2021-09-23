@@ -1,4 +1,4 @@
-Repositorio que contiene clases de utilidades, clases con tricks de distintos frameworks y distintas clases elaboradas, desarrolladas en lenguaje Java y agrupadas tanto por proyecto, como por framework.
+Repositorio que contiene clases de utilidades y clases con tricks para frameworks de java, todas ellas desarrolladas en lenguaje Java y agrupadas tanto por proyecto, como por framework.
 
 
 
