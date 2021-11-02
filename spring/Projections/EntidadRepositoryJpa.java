@@ -1,5 +1,5 @@
-package com.boarding.content.entidad.infrastructure.repository.jpa;
-import com.boarding.content.rem.infrastructure.repository.projections.EntidadIdAndNombre;
+package com.app.content.entidad.infrastructure.repository.jpa;
+import com.app.content.rem.infrastructure.repository.projections.EntidadIdAndNombre;
 import org.springframework.stereotype.Repository;
 
 @Repository
