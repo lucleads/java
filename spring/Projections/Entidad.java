@@ -1,4 +1,4 @@
-package com.boarding.content.entidad.domain;
+package com.app.content.entidad.domain;
 
 import lombok.NoArgsConstructor;
 import lombok.Getter;
