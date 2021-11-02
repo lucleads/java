@@ -1,7 +1,7 @@
 # **Validador**
 
-```
-**NOTA:** Algunas de las validaciones que realiza esta clase, se pueden reemplazar haciendo uso de la librería` [`javax.validations`](https://www.baeldung.com/javax-validation) `aplicadas en el propio dto de entrada
+
+**NOTA:** ```Algunas de las validaciones que realiza esta clase, se pueden reemplazar haciendo uso de la librería` [`javax.validations`](https://www.baeldung.com/javax-validation) `aplicadas en el propio dto de entrada
 ```
 
 Esta clase consta de distintos métodos para validar el formato introducido por parámetro, haciendo uso de expresiones regulares:
